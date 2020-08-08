@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/citas-vet/static/css/main.38b8d9e3.chunk.css",
+    "main.js": "/citas-vet/static/js/main.0488af00.chunk.js",
+    "main.js.map": "/citas-vet/static/js/main.0488af00.chunk.js.map",
+    "runtime-main.js": "/citas-vet/static/js/runtime-main.4e426a85.js",
+    "runtime-main.js.map": "/citas-vet/static/js/runtime-main.4e426a85.js.map",
+    "static/js/2.7d23f82e.chunk.js": "/citas-vet/static/js/2.7d23f82e.chunk.js",
+    "static/js/2.7d23f82e.chunk.js.map": "/citas-vet/static/js/2.7d23f82e.chunk.js.map",
+    "index.html": "/citas-vet/index.html",
+    "precache-manifest.33111a1bad3351132c2b33fb14159726.js": "/citas-vet/precache-manifest.33111a1bad3351132c2b33fb14159726.js",
+    "service-worker.js": "/citas-vet/service-worker.js",
+    "static/css/main.38b8d9e3.chunk.css.map": "/citas-vet/static/css/main.38b8d9e3.chunk.css.map",
+    "static/js/2.7d23f82e.chunk.js.LICENSE.txt": "/citas-vet/static/js/2.7d23f82e.chunk.js.LICENSE.txt",
+    "static/media/doctor.svg": "/citas-vet/static/media/doctor.c5a32f66.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e426a85.js",
+    "static/js/2.7d23f82e.chunk.js",
+    "static/css/main.38b8d9e3.chunk.css",
+    "static/js/main.0488af00.chunk.js"
+  ]
+}
